@@ -1,1 +1,1 @@
-# laptopwayzed.gihub.io
+# laptopwayzed.github.io
